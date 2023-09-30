@@ -1,6 +1,6 @@
 # CPBIT
 
-Extension for Yahboom CPBIT V1.0
+Extension for CMRIA CPBIT V1.0
 
 ## License
 
